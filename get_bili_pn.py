@@ -68,6 +68,7 @@ while flg == 1:
         # if flg ==1:
             print('## 停止收集数据，生成图和文件中。。。。。 ##')
             flg = 0
+            break
         time.sleep(1)
 
 # print(times)
